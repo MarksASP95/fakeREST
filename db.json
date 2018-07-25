@@ -1,176 +1,176 @@
-{"clientes":
- [
-	 {
-	"_id": {
-		"$oid": "5b5624f9bdf3b35d13ab55c1"
-	},
-	"firstName": "Marco",
-	"lastName": "Suarez",
-	"age": 23.0,
-	"address": {
-		"city": "Caracas",
-		"ZIP_code": "1071",
-		"street": "Maracacuay"
-	}
-},
 {
-	"_id": {
-		"$oid": "5b56267dbdf3b35d13ab55c5"
-	},
-	"firstName": "Brian",
-	"lastName": "Cisneros"
-},
-{
-	"_id": {
-		"$oid": "5b562736bdf3b35d13ab55c6"
-	},
-	"firstName": "Adrian",
-	"lastName": "Bermudez"
-},
-{
-	"_id": {
-		"$oid": "5b562736bdf3b35d13ab55c7"
-	},
-	"firstName": "Luis",
-	"lastName": "Ojeda"
-},
-{
-	"_id": {
-		"$oid": "5b562736bdf3b35d13ab55c8"
-	},
-	"firstName": "George",
-	"lastName": "Simon"
-},
-{
-	"_id": {
-		"$oid": "5b562c29bdf3b35d13ab55c9"
-	},
-	"firstName": "Marco",
-	"lastName": "Villegas"
-},
-{
-	"_id": {
-		"$oid": "5b562c9fbdf3b35d13ab55ca"
-	},
-	"firstName": "Margarita",
-	"lastName": "Vega",
-	"gender": "F"
-},
-{
-	"_id": {
-		"$oid": "5b564779bdf3b35d13ab55cb"
-	},
-	"firstName": "Jessica",
-	"lastName": "Orellanes",
-	"gender": "F"
-},
-{
-	"_id": {
-		"$oid": "5b564779bdf3b35d13ab55cc"
-	},
-	"firstName": "Pablo",
-	"lastName": "Suarez",
-	"gender": "M",
-	"address": {
-		"city": "Caracas",
-		"ZIP_code": "1071",
-		"street": "Maracacuay"
-	}
-},
-{
-	"_id": {
-		"$oid": "5b564779bdf3b35d13ab55cd"
-	},
-	"firstName": "Ulises",
-	"lastName": "Suarez",
-	"gender": "M",
-	"address": {
-		"city": "Caracas",
-		"ZIP_code": "1071",
-		"street": "Maracacuay"
-	}
-},
-{
-	"_id": {
-		"$oid": "5b565e2ebdf3b35d13ab55ce"
-	},
-	"firstName": "Katherina",
-	"lastName": "Petrillo",
-	"gender": "F",
-	"address": {
-		"city": "Caracas",
-		"ZIP_code": "1071",
-		"street": "Macaracuay"
-	}
-},
-{
-	"_id": {
-		"$oid": "5b567b59c8fb39455cde5325"
-	},
-	"firstName": "Daniel",
-	"lastName": "Mendoza",
-	"age": 35.0,
-	"address": {
-		"city": "Merida",
-		"ZIP_code": "1020",
-		"street": "Fake St. 123"
-	},
-	"gender": "M"
-},
-{
-	"_id": {
-		"$oid": "5b567cdbc8fb39455cde5326"
-	},
-	"firstName": "Manuel",
-	"lastName": "Chavez",
-	"age": 46.0,
-	"address": {
-		"city": "Guayana",
-		"ZIP_code": "1520",
-		"street": "Calle Mongolia"
-	},
-	"gender": "M"
-},
-{
-	"_id": {
-		"$oid": "5b567cdbc8fb39455cde5327"
-	},
-	"firstName": "Mariana",
-	"lastName": "Vera",
-	"age": 28.0,
-	"address": {
-		"city": "Guatire",
-		"ZIP_code": 1030.0,
-		"street": "Castillejo"
-	},
-	"gender": "F"
-},
-{
-	"_id": {
-		"$oid": "5b567cdbc8fb39455cde5328"
-	},
-	"firstName": "Lester",
-	"lastName": "McMillan",
-	"age": 56.0,
-	"address": {
-		"city": "Barcelona",
-		"ZIP_code": "1065",
-		"street": "Av. SiempreViva 742"
-	},
-	"gender": "M"
-},
-{
-	"_id": {
-		"$oid": "5b567cdbc8fb39455cde5329"
-	},
-	"firstName": "Fatima",
-	"lastName": "Delgado",
-	"age": 31.0,
-	"address": {
-		"city": "Vargas",
-		"ZIP_code": "1425",
-		"street": "Av. Bolivar-Chavez"
-	},
-	"gender": "F"
-]}
-
+	"clientes": [{
+			"_id": {
+				"$oid": "5b5624f9bdf3b35d13ab55c1"
+			},
+			"firstName": "Marco",
+			"lastName": "Suarez",
+			"age": 23.0,
+			"address": {
+				"city": "Caracas",
+				"ZIP_code": "1071",
+				"street": "Maracacuay"
+			}
+		},
+		{
+			"_id": {
+				"$oid": "5b56267dbdf3b35d13ab55c5"
+			},
+			"firstName": "Brian",
+			"lastName": "Cisneros"
+		},
+		{
+			"_id": {
+				"$oid": "5b562736bdf3b35d13ab55c6"
+			},
+			"firstName": "Adrian",
+			"lastName": "Bermudez"
+		},
+		{
+			"_id": {
+				"$oid": "5b562736bdf3b35d13ab55c7"
+			},
+			"firstName": "Luis",
+			"lastName": "Ojeda"
+		},
+		{
+			"_id": {
+				"$oid": "5b562736bdf3b35d13ab55c8"
+			},
+			"firstName": "George",
+			"lastName": "Simon"
+		},
+		{
+			"_id": {
+				"$oid": "5b562c29bdf3b35d13ab55c9"
+			},
+			"firstName": "Marco",
+			"lastName": "Villegas"
+		},
+		{
+			"_id": {
+				"$oid": "5b562c9fbdf3b35d13ab55ca"
+			},
+			"firstName": "Margarita",
+			"lastName": "Vega",
+			"gender": "F"
+		},
+		{
+			"_id": {
+				"$oid": "5b564779bdf3b35d13ab55cb"
+			},
+			"firstName": "Jessica",
+			"lastName": "Orellanes",
+			"gender": "F"
+		},
+		{
+			"_id": {
+				"$oid": "5b564779bdf3b35d13ab55cc"
+			},
+			"firstName": "Pablo",
+			"lastName": "Suarez",
+			"gender": "M",
+			"address": {
+				"city": "Caracas",
+				"ZIP_code": "1071",
+				"street": "Maracacuay"
+			}
+		},
+		{
+			"_id": {
+				"$oid": "5b564779bdf3b35d13ab55cd"
+			},
+			"firstName": "Ulises",
+			"lastName": "Suarez",
+			"gender": "M",
+			"address": {
+				"city": "Caracas",
+				"ZIP_code": "1071",
+				"street": "Maracacuay"
+			}
+		},
+		{
+			"_id": {
+				"$oid": "5b565e2ebdf3b35d13ab55ce"
+			},
+			"firstName": "Katherina",
+			"lastName": "Petrillo",
+			"gender": "F",
+			"address": {
+				"city": "Caracas",
+				"ZIP_code": "1071",
+				"street": "Macaracuay"
+			}
+		},
+		{
+			"_id": {
+				"$oid": "5b567b59c8fb39455cde5325"
+			},
+			"firstName": "Daniel",
+			"lastName": "Mendoza",
+			"age": 35.0,
+			"address": {
+				"city": "Merida",
+				"ZIP_code": "1020",
+				"street": "Fake St. 123"
+			},
+			"gender": "M"
+		},
+		{
+			"_id": {
+				"$oid": "5b567cdbc8fb39455cde5326"
+			},
+			"firstName": "Manuel",
+			"lastName": "Chavez",
+			"age": 46.0,
+			"address": {
+				"city": "Guayana",
+				"ZIP_code": "1520",
+				"street": "Calle Mongolia"
+			},
+			"gender": "M"
+		},
+		{
+			"_id": {
+				"$oid": "5b567cdbc8fb39455cde5327"
+			},
+			"firstName": "Mariana",
+			"lastName": "Vera",
+			"age": 28.0,
+			"address": {
+				"city": "Guatire",
+				"ZIP_code": 1030.0,
+				"street": "Castillejo"
+			},
+			"gender": "F"
+		},
+		{
+			"_id": {
+				"$oid": "5b567cdbc8fb39455cde5328"
+			},
+			"firstName": "Lester",
+			"lastName": "McMillan",
+			"age": 56.0,
+			"address": {
+				"city": "Barcelona",
+				"ZIP_code": "1065",
+				"street": "Av. SiempreViva 742"
+			},
+			"gender": "M"
+		},
+		{
+			"_id": {
+				"$oid": "5b567cdbc8fb39455cde5329"
+			},
+			"firstName": "Fatima",
+			"lastName": "Delgado",
+			"age": 31.0,
+			"address": {
+				"city": "Vargas",
+				"ZIP_code": "1425",
+				"street": "Av. Bolivar-Chavez"
+			},
+			"gender": "F"
+		}
+	]
+}
