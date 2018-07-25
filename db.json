@@ -1,4 +1,4 @@
-{
+[{
 	"_id": {
 		"$oid": "5b5624f9bdf3b35d13ab55c1"
 	},
@@ -170,4 +170,5 @@
 		"street": "Av. Bolivar-Chavez"
 	},
 	"gender": "F"
-}
+}]
+
