@@ -7,14 +7,14 @@
                 "ZIP_code" : "1071",
                 "street" : "Maracacuay"
         }
-}
-{ "firstName" : "Brian", "lastName" : "Cisneros" }
-{ "firstName" : "Adrian", "lastName" : "Bermudez" }
-{ "firstName" : "Luis", "lastName" : "Ojeda" }
-{ "firstName" : "George", "lastName" : "Simon" }
-{ "firstName" : "Marco", "lastName" : "Villegas" }
-{ "firstName" : "Margarita", "lastName" : "Vega", "gender" : "F" }
-{ "firstName" : "Jessica", "lastName" : "Orellanes", "gender" : "F" }
+},
+{ "firstName" : "Brian", "lastName" : "Cisneros" },
+{ "firstName" : "Adrian", "lastName" : "Bermudez" },
+{ "firstName" : "Luis", "lastName" : "Ojeda" },
+{ "firstName" : "George", "lastName" : "Simon" },
+{ "firstName" : "Marco", "lastName" : "Villegas" },
+{ "firstName" : "Margarita", "lastName" : "Vega", "gender" : "F" },
+{ "firstName" : "Jessica", "lastName" : "Orellanes", "gender" : "F" },
 {
         "firstName" : "Pablo",
         "lastName" : "Suarez",
@@ -24,7 +24,7 @@
                 "ZIP_code" : "1071",
                 "street" : "Maracacuay"
         }
-}
+},
 {
         "firstName" : "Ulises",
         "lastName" : "Suarez",
@@ -34,7 +34,7 @@
                 "ZIP_code" : "1071",
                 "street" : "Maracacuay"
         }
-}
+},
 {
         "firstName" : "Katherina",
         "lastName" : "Petrillo",
@@ -44,7 +44,7 @@
                 "ZIP_code" : "1071",
                 "street" : "Macaracuay"
         }
-}
+},
 {
         "firstName" : "Daniel",
         "lastName" : "Mendoza",
@@ -55,7 +55,7 @@
                 "street" : "Fake St. 123"
         },
         "gender" : "M"
-}
+},
 {
         "firstName" : "Manuel",
         "lastName" : "Chavez",
@@ -66,7 +66,7 @@
                 "street" : "Calle Mongolia"
         },
         "gender" : "M"
-}
+},
 {
         "firstName" : "Mariana",
         "lastName" : "Vera",
@@ -77,7 +77,7 @@
                 "street" : "Castillejo"
         },
         "gender" : "F"
-}
+},
 {
         "firstName" : "Lester",
         "lastName" : "McMillan",
@@ -88,7 +88,7 @@
                 "street" : "Av. SiempreViva 742"
         },
         "gender" : "M"
-}
+},
 {
         "firstName" : "Fatima",
         "lastName" : "Delgado",
